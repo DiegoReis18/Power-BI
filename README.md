@@ -1,2 +1,3 @@
 # Power-BI
-Arquivos destinado aos projetos feitos com POWER BI no ALURA
+
+Também é possível ver minhas anotações na pasta do Alura
